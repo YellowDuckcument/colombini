@@ -1,30 +1,6 @@
 @font-face {
    font-family: "Noto Sans";
-   src: url("fonts/Noto Sans Bold.woff2") format("woff2");
-   font-weight: bold;
-   font-style: normal;
-}
-@font-face {
-   font-family: "Noto Sans";
-   src: url("fonts/Noto Sans Regular.woff2") format("woff2");
+   src: url("fonts/Noto Sans.woff2") format("woff2");
    font-weight: normal;
    font-style: normal;
-}
-@font-face {
-   font-family: "Circular Std Black";
-   src: url("fonts/CircularStd-Black.woff2") format("woff2");
-   font-weight: normal;
-   font-style: normal;
-}
-@font-face {
-   font-family: "Noto Sans Black";
-   src: url("fonts/Noto Sans Black.woff2") format("woff2");
-   font-weight: normal;
-   font-style: normal;
-}
-@font-face {
-   font-family: "Noto Sans Black";
-   src: url("fonts/Noto Sans Black Italic.woff2") format("woff2");
-   font-weight: normal;
-   font-style: italic;
 }
